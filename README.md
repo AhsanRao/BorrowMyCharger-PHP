@@ -24,11 +24,11 @@ To run the Borrow My Charger app locally, follow these steps:
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/borrow-my-charger.git
+        git clone https://github.com/your-username/borrow-my-charger.git
 
 2. Change into the project directory:
 
-    cd borrow-my-charger
+        cd borrow-my-charger
 
 3. Configure the database connection:
 - Open the databaseCon.php file and update the database connection details with your own MySQL credentials.
@@ -39,7 +39,7 @@ To run the Borrow My Charger app locally, follow these steps:
 
 5. Start a local PHP development server:
 
-    php -S localhost:8000
+        php -S localhost:8000
 
 6. Access the application:
 - Open your web browser and visit http://localhost:8000 to access the Borrow My Charger app.
@@ -48,10 +48,10 @@ To run the Borrow My Charger app locally, follow these steps:
 
 If you would like to contribute to the development of Borrow My Charger, please follow these guidelines:
 
-    - Fork the repository on GitHub.
-    - Make your changes and commit them with descriptive commit messages.
-    - Push your changes to your forked repository.
-    - Submit a pull request, explaining your changes and their benefits.
+- Fork the repository on GitHub.
+- Make your changes and commit them with descriptive commit messages.
+- Push your changes to your forked repository.
+- Submit a pull request, explaining your changes and their benefits.
 
 # License
 
