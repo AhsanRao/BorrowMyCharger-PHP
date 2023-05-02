@@ -2,6 +2,7 @@
 
 Borrow My Charger is a web application that allows users to list and rent out chargers registered by other users. It provides complete global search functionality, login authentication, and dynamic loading of chargers from a MySQL database.
 
+![My Image](SS/home.png)
 # Features
 
 **User Registration and Authentication:** Users can create accounts and log in securely to the app. Passwords are stored securely.
